@@ -1,0 +1,13 @@
+[
+{
+    "model": "ac.profile",
+    "pk": 1,
+    "fields": {
+        "name": "i_am_alice",
+        "account": 1,
+        "peers": [
+            1
+        ]
+    }
+}
+]

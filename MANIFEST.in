@@ -1,0 +1,8 @@
+include LICENSE
+include README.rst
+recursive-include ac/static *
+recursive-include ac/templates *
+recursive-include docs *
+recursive-include ac/fixtures *
+prune ac/migrations
+prune *.egg-info

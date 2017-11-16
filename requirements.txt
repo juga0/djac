@@ -1,0 +1,2 @@
+-e git+https://github.com/juga0/emailpgp#egg=emailpgp
+-e git+https://github.com/juga0/py-autocrypt@features/l1_pgpy#egg=autocrypt&subdirectory=core
